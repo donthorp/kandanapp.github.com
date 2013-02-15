@@ -5,7 +5,6 @@ date: 2013-02-03 14:37
 comments: true
 categories: [Open Source, Ruby on Rails, HipChat, Kandan]
 ---
-
 ### Introduction
 Today We'd like to introduce you to [Kandan](https://github.com/kandanapp/kandan) an Open Source alternative to HipChat. 
 
@@ -36,9 +35,9 @@ Make sure you check out these resources as well.
 
 * GitHub [Issues Tracker](https://github.com/kandanapp/kandan/issues)
 * Twitter [@kandanapp](https://twitter.com/kandanapp)
-* [Kandan](http://kandanapp.herokuapp.com/) (Yes we eat our own DogFood)
+* [Kandan Demo](http://kandan-demo.kandanapp.com/) (Yes we eat our own DogFood)
 
-You can also email us at kandanapp@gmail.com
+You can also email us at admin@kandanapp.com
 
 ### Conclusion
 We're targetting a 1.0 release in just about two weeks time which will primarily consist of bug fixes. After that release we plan on doing regular minor releases that add new features so if there's anything you want to see in newer versions please create an [Issue](https://github.com/kandanapp/kandan/issues).

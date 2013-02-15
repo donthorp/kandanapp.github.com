@@ -8,7 +8,7 @@ sidebar: true
 footer: true
 ---
 ### Introduction
-Today I'd like to introduce you to [Kandan](https://github.com/kandanapp/kandan) an Open Source alternative to HipChat. 
+Today We'd like to introduce you to [Kandan](https://github.com/kandanapp/kandan) an Open Source alternative to HipChat. 
 
 What is Kandan? Kandan is a private chat service for your company or team. You can invite colleagues to share ideas and files in a persistent group chat room or rooms.
 
@@ -17,7 +17,7 @@ Unlike HipChat or other alternatives, Kandan is completely Open Source and can b
 ### Background
 Kandan was originally developed by [Cloudfuji](http://cloudfuji.com/) and they started development on it back on March 6th of 2012. Development went pretty fast and furious until about June 4th of 2012. After that there wasn't another commit to the repository until some pull requests came in during the month of January of 2013.
 
-In talking with the team at Cloudfuji both [James Gifford](http://jamesrgifford.com/) and I agreed to take over maintenance of the project.
+In talking with the team at Cloudfuji both [James Gifford](http://jamesrgifford.com/) and [Tony Guntharp](http://fusion94.org) agreed to take over maintenance of the project.
 
 ### Features
 These are features that work out of the box on any provider:
@@ -37,9 +37,6 @@ Make sure you check out these resources as well.
 
 * GitHub [Issues Tracker](https://github.com/kandanapp/kandan/issues)
 * Twitter [@kandanapp](https://twitter.com/kandanapp)
-* [Kandan](http://kandanapp.herokuapp.com/) (Yes we eat our own DogFood)
+* [Kandan Demo](http://kandan-demo.kandanapp.com/) (Yes we eat our own DogFood)
 
-You can also email us at kandanapp@gmail.com
-
-### Conclusion
-We're targetting a 1.0 release in just about two weeks time which will primarily consist of bug fixes. After that release we plan on doing regular minor releases that add new features so if there's anything you want to see in newer versions please create an [Issue](https://github.com/kandanapp/kandan/issues).
+You can also email us at admin@kandanapp.com
